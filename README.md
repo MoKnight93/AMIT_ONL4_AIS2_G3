@@ -1,4 +1,4 @@
-# Amit_ONL4_AIS2_G3
+# AMIT_ONL4_AIS2_G3
 ## 📂 Repository Structure
 
 ```
