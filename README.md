@@ -2,11 +2,11 @@
 ## 📂 Repository Structure
 
 ```
-.
-├── Weeks / 
-│   ├── Materials /
-│   ├── Tasks /
-│   └── Code /
+│AMIT_ONL4_AIS2_G3
+├── Weeks
+│   ├── Materials
+│   ├── Tasks
+│   └── Code
 │
 ├── .gitignore
 │
