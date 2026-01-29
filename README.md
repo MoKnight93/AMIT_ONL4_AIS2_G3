@@ -8,6 +8,8 @@
 │   ├── Tasks /
 │   └── Code /
 │
+├── .gitignore
+│
 └── README.md
 ```
 ## 💡 Key Concepts Covered
