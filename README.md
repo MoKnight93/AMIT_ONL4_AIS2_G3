@@ -1,8 +1,8 @@
-# AMIT_ONL4_AIS2_G3
+# DEPI_ONL4_AIS2_G3
 ## 📂 Repository Structure
 
 ```
-│AMIT_ONL4_AIS2_G3
+│DEPI_ONL4_AIS2_G3
 ├── Weeks
 │   ├── Materials
 │   ├── Tasks
@@ -38,12 +38,6 @@
 
 ## 👥 Contributors
 
-- **This Course Belongs to:** DEPI - AMIT
+- **This Course Belongs to:** DEPI & AMIT
 - **Course Instructor:** George Samuel
 - **Repository Owner:** Mohamed Samir (MoKnight93)
-
----
-
-## 📄 License
-
-This project is part of an educational program. Please refer to your institution's policies regarding code usage and distribution.
